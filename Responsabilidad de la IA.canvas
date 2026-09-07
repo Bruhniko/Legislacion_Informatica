@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e39e8f0cc08f1e8c","x":-194,"y":49,"width":250,"height":60,"type":"text","text":"Suplantacion de Identidad"},
+		{"id":"03e51bd08bc5c3c9","x":-194,"y":180,"width":250,"height":60,"type":"text","text":"Creacion de Contenido Ilegal"},
+		{"id":"3bed7a6ac64c2fd0","x":-194,"y":-80,"width":250,"height":60,"type":"text","text":"Derechos de Autor"},
+		{"id":"5cfe0d500387655f","x":-194,"y":280,"width":250,"height":60,"type":"text","text":"Restricciones en Temas de Salud"},
+		{"id":"679796553e0fb1cc","x":100,"y":-80,"width":250,"height":60,"type":"text","text":"Regulacion en Suplantacion de Profesiones"},
+		{"id":"db14b3f1ac3eb9db","x":100,"y":30,"width":250,"height":60,"type":"text","text":"Responsabilidad de la IA"},
+		{"id":"9b2c0da18b4cbb07","x":100,"y":130,"width":250,"height":60,"type":"text","text":"Datos Utilizados al Entrenar al Modelo"},
+		{"id":"4b7474a1f06ceea3","x":100,"y":240,"width":250,"height":60,"type":"text","text":"Ciberataque"}
+	],
+	"edges":[]
+}
