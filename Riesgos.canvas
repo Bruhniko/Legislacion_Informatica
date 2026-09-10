@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"8879ff42061e6146","type":"text","text":"Riesgos","x":-240,"y":-393,"width":250,"height":60,"color":"#ffffff"},
+		{"id":"68c68d7932fa4c98","type":"text","text":"Alto","x":-240,"y":-193,"width":250,"height":60,"color":"2"},
+		{"id":"a2896c7b1808b20a","type":"text","text":"Inaceptable","x":-240,"y":-293,"width":250,"height":60,"color":"1"},
+		{"id":"5c2c8f6d24756328","type":"text","text":"Limitado","x":-240,"y":-93,"width":250,"height":60,"color":"4"},
+		{"id":"c456bec490233476","x":-240,"y":14,"width":250,"height":60,"color":"5","type":"text","text":"Minimo"},
+		{"id":"2934db3f746dc9bb","type":"text","text":"Filtro de curriculos","x":180,"y":-396,"width":250,"height":60},
+		{"id":"28c3cf4a0be83263","type":"text","text":"Apoyo al diagnostico","x":180,"y":-306,"width":250,"height":60},
+		{"id":"9a67fe9bbe526222","type":"text","text":"ChatBot de atencion","x":180,"y":-223,"width":250,"height":60},
+		{"id":"825c3cc9f04f39e9","type":"text","text":"Vigilancia de examenes","x":180,"y":-146,"width":250,"height":60},
+		{"id":"6950db1a636295e1","type":"text","text":"Generador de rostros","x":180,"y":-56,"width":250,"height":60},
+		{"id":"f026e90cd87598e4","type":"text","text":"Scoring","x":180,"y":24,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"8875a86edb978c8e","fromNode":"a2896c7b1808b20a","fromSide":"right","toNode":"825c3cc9f04f39e9","toSide":"left","color":"1"},
+		{"id":"5cb6638d86f98c9a","fromNode":"68c68d7932fa4c98","fromSide":"right","toNode":"2934db3f746dc9bb","toSide":"left","color":"2"},
+		{"id":"dd6d7d242aa8ece1","fromNode":"68c68d7932fa4c98","fromSide":"right","toNode":"28c3cf4a0be83263","toSide":"left","color":"2"},
+		{"id":"93c528c6081b9f0b","fromNode":"5c2c8f6d24756328","fromSide":"right","toNode":"9a67fe9bbe526222","toSide":"left","color":"4"},
+		{"id":"12637bb57bd6b544","fromNode":"5c2c8f6d24756328","fromSide":"right","toNode":"6950db1a636295e1","toSide":"left","color":"4"},
+		{"id":"9e839675fc3d04b8","fromNode":"5c2c8f6d24756328","fromSide":"right","toNode":"f026e90cd87598e4","toSide":"left","color":"4"}
+	]
+}
