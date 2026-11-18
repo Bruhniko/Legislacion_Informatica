@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"f04bed8e57ce8f90","x":-349,"y":-73,"width":250,"height":60,"color":"4","type":"text","text":"MIT"},
+		{"id":"9607a7bb872da11f","x":-629,"y":-73,"width":250,"height":60,"color":"3","type":"text","text":"GPL"},
+		{"id":"779edb2336830507","x":-629,"y":42,"width":250,"height":106,"color":"3","type":"text","text":"GPL obliga a que el software derivado también sea de código abierto"},
+		{"id":"65c7faee2412efb0","x":-914,"y":-73,"width":250,"height":60,"color":"2","type":"text","text":"LGPL"},
+		{"id":"020ccbc6a37e68f4","x":-914,"y":42,"width":250,"height":194,"color":"2","type":"text","text":"Diseñada principalmente para bibliotecas de software."},
+		{"id":"e51940ae0fa68840","x":-349,"y":42,"width":250,"height":274,"color":"4","type":"text","text":"Licencia de software libre permisiva lo que significa que impone muy pocas limitaciones en la reutilización y por tanto posee una excelente Compatibilidad de licencia. La licencia MIT permite reutilizar software dentro de Software propietario."},
+		{"id":"b6753970864d8ae4","x":-1217,"y":-73,"width":250,"height":60,"color":"1","type":"text","text":"CopyLeft"},
+		{"id":"7b38391f8f4e1722","x":-1217,"y":26,"width":250,"height":210,"color":"1","type":"text","text":"Licenciamiento que permite usar, copiar, modificar y redistribuir una obra libremente"},
+		{"id":"054dc106c4e6a1c9","x":-789,"y":-267,"width":250,"height":60,"color":"5","type":"text","text":"Licencias Permisivas"},
+		{"id":"37618f68c4a50dd4","x":-1294,"y":-403,"width":250,"height":60,"type":"text","text":"PENE"}
+	],
+	"edges":[
+		{"id":"a4652f08e2b87599","fromNode":"054dc106c4e6a1c9","fromSide":"bottom","toNode":"b6753970864d8ae4","toSide":"top"},
+		{"id":"184f9c5b8f700a74","fromNode":"054dc106c4e6a1c9","fromSide":"bottom","toNode":"65c7faee2412efb0","toSide":"top"},
+		{"id":"404c248a0166379f","fromNode":"054dc106c4e6a1c9","fromSide":"bottom","toNode":"9607a7bb872da11f","toSide":"top"},
+		{"id":"5b5d10696a9def03","fromNode":"054dc106c4e6a1c9","fromSide":"bottom","toNode":"f04bed8e57ce8f90","toSide":"top"}
+	]
+}
